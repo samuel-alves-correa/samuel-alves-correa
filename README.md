@@ -28,4 +28,23 @@ Estudo diário. Um problema no LeetCode por dia. Um livro técnico por vez.
 | ✅ | C# Fundamentos — Certificado Udemy |
 | ✅ | Orientação a Objetos com SOLID |
 | 🔄 | Git avançado e SQL Server |
-| ⬜
+| ⬜ | APIs REST com ASP.NET Core |
+| ⬜ | Testes automatizados com xUnit |
+| ⬜ | Clean Architecture |
+| ⬜ | AWS |
+
+---
+
+## Lendo agora
+
+- **Real-World Software Development** — Urma & Warburton  
+- **Software Architecture: The Hard Parts** — Neal Ford et al.  
+- **The Pragmatic Programmer** — Hunt & Thomas  
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-alves-correa)
+
+> Aberto a estágios em desenvolvimento C#/.NET — presencial em Goiânia ou remoto.
