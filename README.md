@@ -21,7 +21,7 @@ Estudo todos os dias. Um problema por dia no LeetCode. Um livro técnico por vez
 
 - [x] Lógica de Programação e Algoritmos
 - [x] C# Fundamentos — Certificado Udemy
-- [ ] Orientação a Objetos com SOLID
+- [x] Orientação a Objetos com SOLID
 - [ ] Git e SQL Server
 - [ ] APIs REST com ASP.NET Core
 - [ ] Testes automatizados com xUnit
