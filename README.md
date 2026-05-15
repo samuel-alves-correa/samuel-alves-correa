@@ -27,7 +27,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-alveszx7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/alveszx7/)
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=alveszx7&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/alveszx7?theme=dark&font=Nunito&ext=activity)
 
 ---
 
