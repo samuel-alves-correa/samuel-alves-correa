@@ -1,50 +1,38 @@
-<div align="left">
+<h1 align="center">Olá, eu sou Samuel Alves Correa 👋</h1>
 
-# Samuel Alves Correa
-
-Engenharia de Software · IFG Goiânia — focado em backend **C#/.NET**  
-Estudo diário. Um problema no LeetCode por dia. Um livro técnico por vez.
-
-</div>
-
----
-
-## Stack
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+<p align="center">
+  Estudante de Engenharia de Software @ IFG · Goiânia, GO<br>
+  Desenvolvedor C# em formação · Focado em backend .NET<br>
+  Um problema por dia. Um livro técnico por vez.
+</p>
 
 ---
 
-## Trilha de aprendizado
+## 🌐 Onde me encontrar
 
-| Status | Tópico |
-|--------|--------|
-| ✅ | Lógica de Programação e Algoritmos |
-| ✅ | C# Fundamentos — Certificado Udemy |
-| ✅ | Orientação a Objetos com SOLID |
-| 🔄 | Git avançado e SQL Server |
-| ⬜ | APIs REST com ASP.NET Core |
-| ⬜ | Testes automatizados com xUnit |
-| ⬜ | Clean Architecture |
-| ⬜ | AWS |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-alves-correa)
 
 ---
 
-## Lendo agora
+## 🧠 Stack atual
 
-- **Real-World Software Development** — Urma & Warburton  
-- **Software Architecture: The Hard Parts** — Neal Ford et al.  
-- **The Pragmatic Programmer** — Hunt & Thomas  
+### 👨‍💻 Linguagem e plataforma
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚙️ Back-End e Ferramentas
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+### 🗃️ Banco de Dados
+
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-alves-correa)
-
-> Aberto a estágios em desenvolvimento C#/.NET — presencial em Goiânia ou remoto.
+## 🗺️ Trilha de aprendizado
