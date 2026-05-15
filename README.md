@@ -23,25 +23,33 @@
 
 ---
 
+## 🧩 Problem Solving
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-alveszx7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/alveszx7/)
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=alveszx7&theme=dark)
+
+---
+
 ## 🗺️ Learning path
 
 ✅ Logic and Algorithms  
 ✅ C# Fundamentals — Udemy Certificate  
-⏳ Object-Oriented Programming with SOLID ← here  
-⬜ Git advanced · SQL Server  ← and here now
+⏳ Object-Oriented Programming with SOLID ← here now  
+⏳ Git & GitHub ← here now  
+⬜ SQL Server · Docker  
 ⬜ REST APIs with ASP.NET Core  
 ⬜ Automated testing with xUnit · TDD  
 ⬜ Clean Architecture · Advanced .NET  
-⬜ AWS · Docker  
+⬜ AWS  
 
 ---
 
 ## 📚 Currently reading / recently read
 
 - 📖 *Desenvolvimento Real de Software* — Raoul-Gabriel Urma & Richard Warburton ← reading now
-- 📖 *Software Architecture: The Hard Parts* — Neal Ford et al. ← reading now
-- ✅ *The Pragmatic Programmer* — David Thomas & Andrew Hunt
 - ✅ *Software Architecture: The Hard Parts* — Neal Ford et al.
+- ✅ *The Pragmatic Programmer* — David Thomas & Andrew Hunt
 
 ---
 
