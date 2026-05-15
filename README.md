@@ -28,10 +28,11 @@
 ✅ Lógica de Programação e Algoritmos  
 ✅ C# Fundamentos — Certificado Udemy  
 ⏳ Orientação a Objetos com SOLID ← aqui agora  
-⬜ Git avançado · SQL Server · Docker  
+⬜ Git avançado · SQL Server ← aqui agora
 ⬜ APIs REST com ASP.NET Core  
 ⬜ Testes automatizados com xUnit · TDD  
-⬜ Clean Architecture · .NET Avançado  
+⬜ Clean Architecture · .NET Avançado
+⬜ Docker 
 ⬜ AWS  
 
 ---
