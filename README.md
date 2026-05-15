@@ -1,20 +1,20 @@
-<h1 align="center">Olá, eu sou Samuel Alves Correa 👋</h1>
+<h1 align="center">Hey, I'm Samuel Alves Correa 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software @ IFG · Goiânia, GO<br>
-  Desenvolvedor C# em formação · Focado em backend, .NET<br>
-  Um problema por dia. Um livro técnico por vez.
+  Software Engineering student @ IFG · Goiânia, Brazil<br>
+  C# backend developer in training · Building one thing at a time<br>
+  One problem a day. One technical book at a time.
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-alves-correa)
 
 ---
 
-## 🧠 Stack atual
+## 🧠 Current stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -23,24 +23,25 @@
 
 ---
 
-## 🗺️ Trilha de aprendizado
+## 🗺️ Learning path
 
-✅ Lógica de Programação e Algoritmos  
-✅ C# Fundamentos — Certificado Udemy  
-⏳ Orientação a Objetos com SOLID ← aqui agora  
-⬜ Git avançado · SQL Server ← aqui agora
-⬜ APIs REST com ASP.NET Core  
-⬜ Testes automatizados com xUnit · TDD  
-⬜ Clean Architecture · .NET Avançado
-⬜ Docker 
+✅ Logic and Algorithms  
+✅ C# Fundamentals — Udemy Certificate  
+⏳ Object-Oriented Programming with SOLID ← here now  
+⬜ Git advanced · SQL Server · Docker  
+⬜ REST APIs with ASP.NET Core  
+⬜ Automated testing with xUnit · TDD  
+⬜ Clean Architecture · Advanced .NET  
 ⬜ AWS  
 
 ---
 
-## 📚 Lendo agora
+## 📚 Currently reading / recently read
 
-- *Desenvolvimento Real de Software* — Raoul-Gabriel Urma & Richard Warburton  
-- *Software Architecture: The Hard Parts* — Neal Ford et al.
+- 📖 *Desenvolvimento Real de Software* — Raoul-Gabriel Urma & Richard Warburton ← reading now
+- 📖 *Software Architecture: The Hard Parts* — Neal Ford et al. ← reading now
+- ✅ *The Pragmatic Programmer* — David Thomas & Andrew Hunt
+- ✅ *Software Architecture: The Hard Parts* — Neal Ford et al.
 
 ---
 
@@ -65,4 +66,4 @@
   <img src="https://komarev.com/ghpvc/?username=samuel-alves-correa&style=flat-square&color=blue"/>
 </p>
 
-<p align="center"><i>Aberto a estágio em C#/.NET — presencial em Goiânia ou remoto.</i></p>
+<p align="center"><i>Open to internship in C#/.NET — on-site in Goiânia or remote.</i></p>
