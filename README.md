@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Engenharia de Software @ IFG · Goiânia, GO<br>
-  Desenvolvedor C# em formação · Focado em backend, atualmente .NET<br>
+  Desenvolvedor C# em formação · Focado em backend, .NET<br>
   Um problema por dia. Um livro técnico por vez.
 </p>
 
