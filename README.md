@@ -16,23 +16,52 @@
 
 ## 🧠 Stack atual
 
-### 👨‍💻 Linguagem e plataforma
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### ⚙️ Back-End e Ferramentas
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-### 🗃️ Banco de Dados
-
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
 ## 🗺️ Trilha de aprendizado
+
+✅ Lógica de Programação e Algoritmos  
+✅ C# Fundamentos — Certificado Udemy  
+⏳ Orientação a Objetos com SOLID ← aqui agora  
+⬜ Git avançado · SQL Server · Docker  
+⬜ APIs REST com ASP.NET Core  
+⬜ Testes automatizados com xUnit · TDD  
+⬜ Clean Architecture · .NET Avançado  
+⬜ AWS  
+
+---
+
+## 📚 Lendo agora
+
+- *Desenvolvimento Real de Software* — Raoul-Gabriel Urma & Richard Warburton  
+- *Software Architecture: The Hard Parts* — Neal Ford et al.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuel-alves-correa&theme=dark&hide_border=false&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-alves-correa&theme=dark&hide_border=false" height="150"/>
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samuel-alves-correa&theme=radical&no-frame=false&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samuel-alves-correa&style=flat-square&color=blue"/>
+</p>
+
+<p align="center"><i>Aberto a estágio em C#/.NET — presencial em Goiânia ou remoto.</i></p>
