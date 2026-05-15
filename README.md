@@ -27,12 +27,12 @@
 
 ✅ Logic and Algorithms  
 ✅ C# Fundamentals — Udemy Certificate  
-⏳ Object-Oriented Programming with SOLID ← here now  
-⬜ Git advanced · SQL Server · Docker  
+⏳ Object-Oriented Programming with SOLID ← here  
+⬜ Git advanced · SQL Server  ← and here now
 ⬜ REST APIs with ASP.NET Core  
 ⬜ Automated testing with xUnit · TDD  
 ⬜ Clean Architecture · Advanced .NET  
-⬜ AWS  
+⬜ AWS · Docker  
 
 ---
 
