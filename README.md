@@ -50,6 +50,7 @@
 - 📖 *Desenvolvimento Real de Software* — Raoul-Gabriel Urma & Richard Warburton ← reading now
 - ✅ *Software Architecture: The Hard Parts* — Neal Ford et al.
 - ✅ *The Pragmatic Programmer* — David Thomas & Andrew Hunt
+- ✅ *Grokking Algorithms* —  Aditya Y. Bhargava
 
 ---
 
