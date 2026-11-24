@@ -16,7 +16,7 @@
 ### 👋 About
 
 - 🎓 Software Engineering @ **IFG** — class of 2030
-- 💼 IT intern, currently in the Cybersecurity & Infrastructure rotation
+- 💼 IT intern, currently in the Cybersecurity & Infrastructure
 - 🌱 Practicing object-oriented design in C# and SQL until I can write it without reference
 - 🧭 Backend now, **Machine Learning Engineering** as the destination
 
