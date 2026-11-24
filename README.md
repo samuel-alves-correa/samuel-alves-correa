@@ -23,7 +23,7 @@
 ### 🛠️ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,powershell,git&theme=dark" alt="C#, .NET, Python, TypeScript, PowerShell, Git">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,git&theme=dark" alt="C#, .NET, Python, Git">
 </p>
 
 **Next up:** <img src="https://skillicons.dev/icons?i=docker,azure&theme=dark&perline=2" height="28" alt="Docker, Azure" align="center"> · ASP.NET Core Web API · SQL Server · xUnit
