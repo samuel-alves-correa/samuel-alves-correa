@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f1f1f,100:d97757&text=Samuel%20Alves%20Correa&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Backend%20·%20C%23%20%2F%20.NET%20·%20Goiás%2C%20Brazil&descAlignY=58&descSize=16" width="100%" alt="Samuel Alves Correa — Backend · C# / .NET">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f1f1f,100:8b5cf6&text=Samuel%20Alves%20Correa&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Backend%20·%20C%23%20%2F%20.NET%20·%20Goiás%2C%20Brazil&descAlignY=58&descSize=16" width="100%" alt="Samuel Alves Correa — Backend · C# / .NET">
 
 <p align="center">
   <a href="https://github.com/samuel-alves-correa">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=D97757&center=true&vCenter=true&width=560&lines=Software+Engineering+student+%40+IFG;Building+backend+with+C%23+and+.NET;Shipping+open-source+tools+for+Claude+Code;Looking+for+a+backend+internship" alt="Typing animation">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&lines=Software+Engineering+student+%40+IFG;Building+backend+with+C%23+and+.NET;Shipping+open-source+tools+for+Claude+Code;Looking+for+a+backend+internship" alt="Typing animation">
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/samuel-alves-correa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/open%20to-backend%20internship-d97757?style=flat-square" alt="Open to backend internship">
+  <img src="https://img.shields.io/badge/open%20to-backend%20internship-8b5cf6?style=flat-square" alt="Open to backend internship">
 </p>
 
 ---
@@ -36,7 +36,7 @@
 <tr>
 <td width="55%" valign="top">
 
-#### [🧡 Claudinho](https://github.com/samuel-alves-correa/claudinho-panel)
+#### [💜 Claudinho](https://github.com/samuel-alves-correa/claudinho-panel)
 A mod for Claude Code that shows, in real time, what the agent is doing and how much of the session limit is used.
 
 Hooks write each session's state to JSON; an always-on-top Windows widget reads it and animates a pixel-art mascot. Handles several sessions at once and surfaces the most urgent one (permission prompt > error > working > idle).
@@ -77,4 +77,4 @@ Studying whether LLMs with RAG can flag vulnerabilities in API code written by A
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:d97757,100:1f1f1f&section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8b5cf6,100:1f1f1f&section=footer" width="100%" alt="">
