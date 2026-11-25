@@ -62,7 +62,7 @@ Read-only tool that checks whether every server and workstation has the agents a
 <td colspan="2" valign="top">
 
 #### 🗼 Atalaia &nbsp;<sub>private · web rewrite of a tool started by my mentor</sub>
-Local control tower for a Microsoft 365 tenant: idle and overlapping licenses, cost and reduction plan, MFA gaps, security alerts, third-party consents, storage and devices, in one screen instead of a dozen admin portals.
+Local control tower for a Microsoft 365 tenant: idle and overlapping licenses, cost and reduction plan, MFA gaps, security alerts, third-party consents, storage and devices, in one screen instead of jumping between admin portals.
 I rebuilt it from a Streamlit prototype into a React + FastAPI app: API bound to localhost with login, read-only screens over SQLite snapshots, and Microsoft Graph collectors that degrade per section when a permission is missing. Explainable analytics instead of an external AI API: weighted rules for user criticality, z-score anomalies and linear-regression trends.
 
 `Python` `FastAPI` `React` `TypeScript` `Tailwind` `Microsoft Graph` `MSAL` `SQLite` `pytest`
