@@ -61,6 +61,16 @@ Read-only tool that checks whether every server and workstation has the agents a
 <tr>
 <td colspan="2" valign="top">
 
+#### 🗼 Atalaia &nbsp;<sub>private · contributor, built with my mentor</sub>
+Local dashboard for managing a Microsoft 365 tenant: licensing, users, identity and MFA, security, storage, Teams, devices and cost. Pulls data from Microsoft Graph through an Entra ID app registration and keeps collection history in SQLite, with nothing in the cloud. Explainable analytics instead of an external AI API: weighted rules for user criticality, z-score anomalies and linear-regression trends.
+
+`Python` `Streamlit` `Microsoft Graph` `MSAL` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 #### 🔬 LLM-based vulnerability detection &nbsp;<sub>PIBIC research @ IFG</sub>
 Studying whether LLMs with RAG can flag vulnerabilities in API code written by AI assistants.
 
