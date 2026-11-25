@@ -61,10 +61,11 @@ Read-only tool that checks whether every server and workstation has the agents a
 <tr>
 <td colspan="2" valign="top">
 
-#### 🗼 Atalaia &nbsp;<sub>private · contributor, built with my mentor</sub>
-Local dashboard for managing a Microsoft 365 tenant: licensing, users, identity and MFA, security, storage, Teams, devices and cost. Pulls data from Microsoft Graph through an Entra ID app registration and keeps collection history in SQLite, with nothing in the cloud. Explainable analytics instead of an external AI API: weighted rules for user criticality, z-score anomalies and linear-regression trends.
+#### 🗼 Atalaia &nbsp;<sub>private · web rewrite of a tool started by my mentor</sub>
+Local control tower for a Microsoft 365 tenant: idle and overlapping licenses, cost and reduction plan, MFA gaps, security alerts, third-party consents, storage and devices, in one screen instead of a dozen admin portals.
+I rebuilt it from a Streamlit prototype into a React + FastAPI app: API bound to localhost with login, read-only screens over SQLite snapshots, and Microsoft Graph collectors that degrade per section when a permission is missing. Explainable analytics instead of an external AI API: weighted rules for user criticality, z-score anomalies and linear-regression trends.
 
-`Python` `Streamlit` `Microsoft Graph` `MSAL` `SQLite`
+`Python` `FastAPI` `React` `TypeScript` `Tailwind` `Microsoft Graph` `MSAL` `SQLite` `pytest`
 
 </td>
 </tr>
