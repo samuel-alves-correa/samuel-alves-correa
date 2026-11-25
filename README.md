@@ -36,7 +36,7 @@
 <tr>
 <td width="55%" valign="top">
 
-#### [Claudinho](https://github.com/samuel-alves-correa/claudinho-panel)
+#### [🧡Claudinho](https://github.com/samuel-alves-correa/claudinho-panel)
 A mod for Claude Code that shows, in real time, what the agent is doing and how much of the session limit is used.
 
 Hooks write each session's state to JSON; an always-on-top Windows widget reads it and animates a pixel-art mascot. Handles several sessions at once and surfaces the most urgent one (permission prompt > error > working > idle).
